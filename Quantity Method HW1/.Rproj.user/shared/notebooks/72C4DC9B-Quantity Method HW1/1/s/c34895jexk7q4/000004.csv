@@ -1,0 +1,5 @@
+"0","rm(list=ls())"
+"0","library(dplyr)"
+"0","library(psych)"
+"0","library(haven)"
+"0","wage1 <- read_dta(""http://fmwww.bc.edu/ec-p/data/wooldridge/wage1.dta"")"

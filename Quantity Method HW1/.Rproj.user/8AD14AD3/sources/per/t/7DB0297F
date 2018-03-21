@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521557863655.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7DB0297F",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1521557863655,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "58024F62",
+        "caption" : "wage1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=wage1&cache_key=58024F62",
+        "displayedObservations" : 526,
+        "environment" : "",
+        "object" : "wage1",
+        "preview" : 0,
+        "totalObservations" : 526,
+        "variables" : 24
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
